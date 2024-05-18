@@ -17,3 +17,6 @@ Welcome to my personal portfolio project! This repository contains the code for 
 - JavaScript
 - [Bootstrap](https://getbootstrap.com/) (for responsive design)
 - [Font Awesome](https://fontawesome.com/) (for icons)
+
+
+ Open `https://praveeraportfolio.netlify.app/` in your browser to view the website.
