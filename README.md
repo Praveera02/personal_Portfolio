@@ -19,4 +19,4 @@ Welcome to my personal portfolio project! This repository contains the code for 
 - [Font Awesome](https://fontawesome.com/) (for icons)
 
 
- Open `https://praveeraportfolio.netlify.app/` in your browser to view the website.
+ Open `https://cool-praline-f5cb62.netlify.app/` in your browser to view the website.
